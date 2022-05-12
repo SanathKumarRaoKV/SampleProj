@@ -1,4 +1,4 @@
 
 public class Sample {
-	println("Welcome Hi");
+	println("Welcome Hello");
 }
